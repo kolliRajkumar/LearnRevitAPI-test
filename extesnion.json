@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "LearnRevitAPI",
+    "description": "Extensions for PyRevit-Test",
+    "author": "Rajkumar Kolli",
+    "author_profile": "",
+    "url": "https://github.com/kolliRajkumar/LearnRevitAPI-test.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
